@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Clean Water Initiative",
+    "description": "Help build wells in rural Kenya.",
+    "goal": 100000,
+    "raised": 25000
+  },
+  {
+    "id": "2",
+    "title": "School Fund Drive",
+    "description": "Support children’s education in Kisumu.",
+    "goal": 150000,
+    "raised": 60000
+  }
+]
