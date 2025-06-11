@@ -1,0 +1,15 @@
+{
+	"/": [],
+	"/admin": [
+		"src/routes/admin/+page.server.ts"
+	],
+	"/api/mpesa/stkpush": [
+		"src/routes/api/mpesa/stkpush/+server.ts"
+	],
+	"/api/mpesa/token": [
+		"src/routes/api/mpesa/token/+server.ts"
+	],
+	"/donate/[id]": [
+		"src/routes/donate/[id]/+page.server.ts"
+	]
+}
